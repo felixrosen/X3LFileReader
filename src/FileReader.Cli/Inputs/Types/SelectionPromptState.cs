@@ -1,0 +1,31 @@
+﻿namespace FileReader.Cli.Inputs.Types;
+
+public enum SelectionPromptState
+{
+    MainSelection,    
+    Exit,
+    PrintFileInfo,
+    EndSubSelection,
+    PreviousAction,
+    SearchExport,
+    PrintSelectedOutputColumns,
+    SelectOutputColumns,
+    SelectColumnToOrderBy,
+    SearchWithPaging,
+    Settings,
+    ExportPage,
+    ExportSearchResult,
+    NextPage,
+    PreviousPage,
+    View,
+    ReadNewFile,
+    ReadExistingFile,
+    ClearExistingFiles,
+    ResetFileSettings,
+    Export,
+    GoToPage,
+    ViewLines,
+    SearchAllColumns,
+    SearchColumn,
+    SubItems,
+}
