@@ -46,3 +46,6 @@ dotnet run --project src/FileReader.Cli/FileReader.Cli.csproj
 
 ## License
 MIT
+
+## Screenshots
+<img width="1900" height="1618" alt="image" src="https://github.com/user-attachments/assets/e9282e63-67da-4b25-9045-dcb174e3e292" />
